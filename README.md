@@ -18,13 +18,8 @@ Github is my only social media.
 
 ### Contact 💖
 
-[Linktree](https://linktr.ee/maapps)
-
-[Linkedin](https://www.linkedin.com/in/tony-maapps/)
-
-[Website](https://maapps.dev/)
-
-[Calendly](https://calendly.com/tony-maapps/meet)
+| [Linktree](https://linktr.ee/maapps) | [Linkedin](https://www.linkedin.com/in/tony-maapps/) | [Website](https://maapps.dev/) | [Calendly](https://calendly.com/tony-maapps/meet) |
+|--------------------------------------|------------------------------------------------------|--------------------------------|---------------------------------------------------|
 
 <!--
 **maAPPsDEV/maAPPsDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
