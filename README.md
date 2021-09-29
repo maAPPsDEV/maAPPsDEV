@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![skyline-short-3](https://user-images.githubusercontent.com/78368735/135309541-9e8b814d-652f-4c1a-9596-99df192dcef9.gif)
+![github](https://user-images.githubusercontent.com/78368735/135328331-5bde479e-d4ee-4fb8-9e9b-1176137a32e2.jpg)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&width=700&height=20&color=000&lines=Everyday+I+am+coding.+To+be+somebody%2C+not+just+anybody.)
 
@@ -9,9 +9,10 @@ If you `code` every day as if it was your last, some day you'll most certainly b
 > Stay hungry, Stay foolish.
 
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=maAPPsDEV&theme=tokyonight" />
-<img src="https://activity-graph.herokuapp.com/graph?username=maAPPsDEV&theme=redical">
+  <img src="https://user-images.githubusercontent.com/78368735/135309541-9e8b814d-652f-4c1a-9596-99df192dcef9.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maAPPsDEV&theme=tokyonight" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=maAPPsDEV&theme=redical">
 </p>
 
 ### Skill ⚡
