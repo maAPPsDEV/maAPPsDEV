@@ -10,7 +10,7 @@ If you `code` every day as if it was your last, some day you'll most certainly b
 Github is my only social media.
 ```
 
-[![Tony's Activity](https://github-readme-stats.vercel.app/api?username=maAPPsDEV&theme=graywhite)](https://github.com/maAPPsDEV/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 ### Skill ⚡
 
