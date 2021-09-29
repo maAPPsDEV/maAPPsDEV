@@ -31,7 +31,19 @@ If you `code` every day as if it was your last, some day you'll most certainly b
 
 <img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/78368735/135320123-1403e8f2-1300-4dde-84a3-eee7437e1689.gif">
 
-| [Linktree](https://linktr.ee/maapps) | [Linkedin](https://www.linkedin.com/in/tony-maapps/) | [Website](https://maapps.dev/) | [Calendly](https://calendly.com/tony-maapps/meet) |
+<p>
+  <a href="https://linktr.ee/maapps" target="_blank"><img src="https://img.shields.io/badge/Linktr.ee-blue?style=flat-square&logo=linktree"/></a>
+  <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=wordpress"/>
+  <img src="https://img.shields.io/badge/Calendly-blue?style=flat-square&logo=googlemeet"/>
+</p>
+
+<a href="https://linktr.ee/maapps" target="_blank"><img src="https://img.shields.io/badge/Linktr.ee-blue?style=flat-square&logo=linktree"/></a>
+
+<img src="https://img.shields.io/badge/-blue?style=flat-square&logo=linktree"/>
+<img src="https://img.shields.io/badge/-blue?style=flat-square&logo=wordpress"/>
+
+| [Linktree](https://linktr.ee/maapps) | [<p><img src="https://img.shields.io/badge/-blue?style=flat-square&logo=linkedin"/></p>Linkedin](https://www.linkedin.com/in/tony-maapps/) | [Website](https://maapps.dev/) | [Calendly](https://calendly.com/tony-maapps/meet) |
 |--------------------------------------|------------------------------------------------------|--------------------------------|---------------------------------------------------|
 
 <!--
