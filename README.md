@@ -2,7 +2,7 @@
 
 ![skyline-short-3](https://user-images.githubusercontent.com/78368735/135309541-9e8b814d-652f-4c1a-9596-99df192dcef9.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&width=500&height=40&lines=Everyday+I+am+coding.+To+be+somebody%2C+not+just+anybody.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&width=700&height=20&color=000&lines=Everyday+I+am+coding.+To+be+somebody%2C+not+just+anybody.)
 
 If you `code` every day as if it was your last, some day you'll most certainly be right.
 
