@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github](https://user-images.githubusercontent.com/78368735/135328331-5bde479e-d4ee-4fb8-9e9b-1176137a32e2.jpg)
+![github](https://user-images.githubusercontent.com/78368735/135337197-aef182c1-b6d9-4f3b-a2ec-ae96e766ad03.jpg)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&width=700&height=20&color=000&lines=Everyday+I+am+coding.+To+be+somebody%2C+not+just+anybody.)
 
