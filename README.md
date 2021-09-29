@@ -29,22 +29,17 @@ If you `code` every day as if it was your last, some day you'll most certainly b
 
 ### Contact 💖
 
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/78368735/135320123-1403e8f2-1300-4dde-84a3-eee7437e1689.gif">
 
-<p>
-  <a href="https://linktr.ee/maapps" target="_blank"><img src="https://img.shields.io/badge/Linktr.ee-blue?style=flat-square&logo=linktree"/></a>
-  <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin"/>
-  <img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=wordpress"/>
-  <img src="https://img.shields.io/badge/Calendly-blue?style=flat-square&logo=googlemeet"/>
-</p>
+<img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/78368735/135320123-1403e8f2-1300-4dde-84a3-eee7437e1689.gif">
 
 <a href="https://linktr.ee/maapps" target="_blank"><img src="https://img.shields.io/badge/Linktr.ee-blue?style=flat-square&logo=linktree"/></a>
 
-<img src="https://img.shields.io/badge/-blue?style=flat-square&logo=linktree"/>
-<img src="https://img.shields.io/badge/-blue?style=flat-square&logo=wordpress"/>
+<a href="https://www.linkedin.com/in/tony-maapps/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin"/></a>
 
-| [Linktree](https://linktr.ee/maapps) | [<p><img src="https://img.shields.io/badge/-blue?style=flat-square&logo=linkedin"/></p>Linkedin](https://www.linkedin.com/in/tony-maapps/) | [Website](https://maapps.dev/) | [Calendly](https://calendly.com/tony-maapps/meet) |
-|--------------------------------------|------------------------------------------------------|--------------------------------|---------------------------------------------------|
+<a href="https://maapps.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=wordpress"/></a>
+
+<a href="https://calendly.com/tony-maapps/meet" target="_blank"><img src="https://img.shields.io/badge/Calendly-blue?style=flat-square&logo=googlemeet"/></a>
+
 
 <!--
 **maAPPsDEV/maAPPsDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
