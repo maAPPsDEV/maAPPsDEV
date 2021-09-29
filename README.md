@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![skyline-short-3](https://user-images.githubusercontent.com/78368735/135309541-9e8b814d-652f-4c1a-9596-99df192dcef9.gif)
+
 If you `code` every day as if it was your last, some day you'll most certainly be right.
 
 > Stay hungry, Stay foolish.
@@ -9,8 +11,8 @@ If you `code` every day as if it was your last, some day you'll most certainly b
 ```
 Github is my only social media.
 ```
-
-<img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=maAPPsDEV&theme=tokyonight" />
 
 ### Skill ⚡
 
