@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&width=700&height=20&lines=Everyday+I+am+coding.+To+be+somebody%2C+not+just+anybody.)
 
-If you `code` every day as if it was your last, some day you'll most certainly be right.
+If you `code` each day as if it was your last, some day you'll most certainly be right.
 
 > Stay hungry, Stay foolish.
 
