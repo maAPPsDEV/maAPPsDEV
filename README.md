@@ -1,6 +1,9 @@
-### Hi there 👋
+### 👉 Ethereum DAPP/Smart Contract Developer
+### 👉 Solidity Assembly Engineer
+### 👉 Gas Optimizer, Security Maintainer
+### 👉 Blockchain-EVM Researcher
 
-![github](https://user-images.githubusercontent.com/78368735/135337197-aef182c1-b6d9-4f3b-a2ec-ae96e766ad03.jpg)
+![github](https://user-images.githubusercontent.com/78368735/175531709-fcabaa9e-5a2a-4d97-89d2-8d52e2ee2920.jpg)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&width=700&height=20&lines=Everyday+I+am+coding.+To+be+somebody%2C+not+just+anybody.)
 
@@ -9,7 +12,7 @@ If you `code` each day as if it was your last, some day you'll most certainly be
 > Stay hungry, Stay foolish.
 
 <p align = "center">
-  <img src="https://user-images.githubusercontent.com/78368735/135309541-9e8b814d-652f-4c1a-9596-99df192dcef9.gif" />
+  <img src="https://user-images.githubusercontent.com/78368735/175550936-7ebeab90-fa7f-4745-93e6-c72316822511.gif" />
   <img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=maAPPsDEV&theme=tokyonight" />
   <img src="https://activity-graph.herokuapp.com/graph?username=maAPPsDEV&theme=redical">
@@ -20,6 +23,7 @@ If you `code` each day as if it was your last, some day you'll most certainly be
 <p>
   <img src="https://img.shields.io/badge/Solidity-lightgrey?style=flat&logo=solidity&logoColor=black"/>
   <img src="https://img.shields.io/badge/ASM-TEAL-red?style=flat&logo=algo"/>
+  <img src="https://img.shields.io/badge/Rust-black?style=flat&logo=rust"/>
   <img src="https://img.shields.io/badge/React-blue?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/TypeScript-154256?style=flat&logo=typescript"/>
   <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript"/>
