@@ -11,6 +11,7 @@ If you `code` each day as if it was your last, some day you'll most certainly be
 
 > Stay hungry, Stay foolish.
 
+<p align = "center">
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
   <tr>
@@ -25,13 +26,18 @@ If you `code` each day as if it was your last, some day you'll most certainly be
   </tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
+</p>
 
 <p align = "center">
   <img src="https://user-images.githubusercontent.com/78368735/175550936-7ebeab90-fa7f-4745-93e6-c72316822511.gif" />
+</p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maAPPsDEV&hide=html,css&theme=radical">
+</p>
+<p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=maAPPsDEV&theme=tokyonight" />
   <img src="https://activity-graph.herokuapp.com/graph?username=maAPPsDEV&theme=redical">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maAPPsDEV&hide=html,css&theme=radical">
 </p>
 
 ### Skill ⚡
