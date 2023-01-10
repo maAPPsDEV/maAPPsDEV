@@ -11,11 +11,27 @@ If you `code` each day as if it was your last, some day you'll most certainly be
 
 > Stay hungry, Stay foolish.
 
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=MnX_CanqiCU"><img src="https://i.ytimg.com/vi/MnX_CanqiCU/mqdefault.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=ujHqPoeaMlE"><img src="https://i.ytimg.com/vi/ujHqPoeaMlE/mqdefault.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=tjF0UdfuxQU"><img src="https://i.ytimg.com/vi/tjF0UdfuxQU/mqdefault.jpg"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=MnX_CanqiCU">A Developer's Experience</a></td>
+    <td><a href="https://www.youtube.com/watch?v=ujHqPoeaMlE">A Developer's Responsibility</a></td>
+    <td><a href="https://www.youtube.com/watch?v=tjF0UdfuxQU">When Frozen is connected to a Developer</a></td>
+  </tr>
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+</table>
+
 <p align = "center">
   <img src="https://user-images.githubusercontent.com/78368735/175550936-7ebeab90-fa7f-4745-93e6-c72316822511.gif" />
   <img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=maAPPsDEV&theme=tokyonight" />
   <img src="https://activity-graph.herokuapp.com/graph?username=maAPPsDEV&theme=redical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maAPPsDEV&hide=html,css&theme=radical">
 </p>
 
 ### Skill ⚡
@@ -44,7 +60,6 @@ If you `code` each day as if it was your last, some day you'll most certainly be
 <a href="https://maapps.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=wordpress"/></a>
 
 <a href="https://calendly.com/tony-maapps/meet" target="_blank"><img src="https://img.shields.io/badge/Calendly-blue?style=flat-square&logo=googlemeet"/></a>
-
 
 <!--
 **maAPPsDEV/maAPPsDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
