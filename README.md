@@ -29,7 +29,7 @@ If you `code` each day as if it was your last, some day you'll most certainly be
 </p>
 
 <p align = "center">
-  <img src="https://user-images.githubusercontent.com/78368735/175550936-7ebeab90-fa7f-4745-93e6-c72316822511.gif" />
+  <img src="https://user-images.githubusercontent.com/78368735/211853243-9e5ef2cf-36ff-4630-80f9-ac0e4bc6846a.gif" />
 </p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maAPPsDEV&hide=html,css&theme=radical">
