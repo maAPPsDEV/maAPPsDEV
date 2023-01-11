@@ -37,7 +37,7 @@ If you `code` each day as if it was your last, some day you'll most certainly be
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=maAPPsDEV&theme=tokyonight" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=maAPPsDEV&theme=redical">
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=maAPPsDEV&theme=redical"> -->
 </p>
 
 ### Skill ⚡
