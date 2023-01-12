@@ -56,10 +56,15 @@ If you `✨code✨` each day as if it was your last, some day you'll most certai
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>
 </p>
 
+### 🎮 I am a gamer, too! 🤪🤪🤪
+
+<p align="center">
+  <img width="640" src="https://user-images.githubusercontent.com/78368735/212185947-4fd8d859-5418-4867-98e6-5ae12ced83f8.png" />
+</p>
+
 ### 💖 Contact
 
-
-<img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/78368735/135320123-1403e8f2-1300-4dde-84a3-eee7437e1689.gif">
+<img align="left" height="150" src="https://user-images.githubusercontent.com/78368735/212184858-6cb10a72-458f-4842-8955-d9f4a0fc45cb.gif">
 
 <a href="https://linktr.ee/maapps" target="_blank"><img src="https://img.shields.io/badge/Linktr.ee-blue?style=flat-square&logo=linktree"/></a>
 
@@ -68,13 +73,6 @@ If you `✨code✨` each day as if it was your last, some day you'll most certai
 <a href="https://maapps.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=wordpress"/></a>
 
 <a href="https://calendly.com/tony-maapps/meet" target="_blank"><img src="https://img.shields.io/badge/Calendly-blue?style=flat-square&logo=googlemeet"/></a>
-
-### 🎮 I am a gamer, too! 🤪🤪🤪
-
-<p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/78368735/212185947-4fd8d859-5418-4867-98e6-5ae12ced83f8.png" />
-  <img height="289" src="https://user-images.githubusercontent.com/78368735/212184858-6cb10a72-458f-4842-8955-d9f4a0fc45cb.gif" />
-</p>
 
 <!--
 **maAPPsDEV/maAPPsDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
