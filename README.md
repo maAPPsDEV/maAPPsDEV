@@ -3,11 +3,13 @@
 ### 👉 Gas Optimizer, Security Maintainer
 ### 👉 Blockchain-EVM Researcher
 
-![github](https://user-images.githubusercontent.com/78368735/175531709-fcabaa9e-5a2a-4d97-89d2-8d52e2ee2920.jpg)
+<p align = "center">
+  <img src="https://user-images.githubusercontent.com/78368735/212181578-0ec04278-7b41-45b6-b3da-0a16ce10efb4.png">
+</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=16&width=700&height=20&lines=Everyday+I+am+coding.+To+be+somebody%2C+not+just+anybody.)
 
-If you `code` each day as if it was your last, some day you'll most certainly be right.
+If you `✨code✨` each day as if it was your last, some day you'll most certainly be right.
 
 > Stay hungry, Stay foolish.
 
@@ -32,15 +34,15 @@ If you `code` each day as if it was your last, some day you'll most certainly be
   <img src="https://user-images.githubusercontent.com/78368735/211853243-9e5ef2cf-36ff-4630-80f9-ac0e4bc6846a.gif" />
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maAPPsDEV&hide=html,css&theme=radical">
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maAPPsDEV&hide=html,css&theme=radical"> -->
 </p>
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maAPPsDEV&theme=tokyonight" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&count_private=true" /> -->
+  <img width="640" src="https://github-readme-streak-stats.herokuapp.com?user=maAPPsDEV&theme=tokyonight" />
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=maAPPsDEV&theme=redical"> -->
 </p>
 
-### Skill ⚡
+### ⚡ Skill
 
 <p>
   <img src="https://img.shields.io/badge/Solidity-lightgrey?style=flat&logo=solidity&logoColor=black"/>
@@ -54,7 +56,7 @@ If you `code` each day as if it was your last, some day you'll most certainly be
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>
 </p>
 
-### Contact 💖
+### 💖 Contact
 
 
 <img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/78368735/135320123-1403e8f2-1300-4dde-84a3-eee7437e1689.gif">
@@ -66,6 +68,13 @@ If you `code` each day as if it was your last, some day you'll most certainly be
 <a href="https://maapps.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=wordpress"/></a>
 
 <a href="https://calendly.com/tony-maapps/meet" target="_blank"><img src="https://img.shields.io/badge/Calendly-blue?style=flat-square&logo=googlemeet"/></a>
+
+### 🎮 I am a gamer, too! 🤪🤪🤪
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/78368735/212185947-4fd8d859-5418-4867-98e6-5ae12ced83f8.png" />
+  <img height="289" src="https://user-images.githubusercontent.com/78368735/212184858-6cb10a72-458f-4842-8955-d9f4a0fc45cb.gif" />
+</p>
 
 <!--
 **maAPPsDEV/maAPPsDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
