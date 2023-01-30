@@ -34,10 +34,7 @@ If you `✨code✨` each day as if it was your last, some day you'll most certai
   <img src="https://user-images.githubusercontent.com/78368735/211853243-9e5ef2cf-36ff-4630-80f9-ac0e4bc6846a.gif" />
 </p>
 <p align = "center">
-<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maAPPsDEV&hide=html,css&theme=radical"> -->
-</p>
-<p align = "center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&count_private=true" /> -->
+  <img width="640" src="https://github-readme-stats.vercel.app/api?username=maAPPsDEV&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
   <img width="640" src="https://github-readme-streak-stats.herokuapp.com?user=maAPPsDEV&theme=tokyonight" />
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=maAPPsDEV&theme=redical"> -->
 </p>
@@ -54,6 +51,9 @@ If you `✨code✨` each day as if it was your last, some day you'll most certai
   <img src="https://img.shields.io/badge/Swift-9cf?style=flat&logo=swift"/>
   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"/>
+</p>
+<p align = "center">
+  <img width="640" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maAPPsDEV&hide=html,css&layout=compact&theme=radical">
 </p>
 
 ### 🎮 I am a gamer, too! 🤪🤪🤪
